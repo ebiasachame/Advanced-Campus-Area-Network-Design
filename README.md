@@ -19,7 +19,7 @@ Optimized data flow and congestion control
 Improved security and failover mechanisms
 
 🛠 Technologies Used:
-Cisco Packet Tracer & GNS3 for network simulation
+Cisco Packet Tracer for network simulation
 
 Cisco Routers, Switches (Core & Distribution)
 
